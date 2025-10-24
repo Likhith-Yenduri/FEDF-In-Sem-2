@@ -1,0 +1,14 @@
+📚 Book Explorer — React Router & Props Project
+
+🧠 Overview
+**Book Explorer** is a simple and interactive web app built with **React, Vite, and React Router**.  
+It allows users to explore a list of books, view detailed information, and learn basic React concepts like **props**, **routing**, and **hooks** (`useState`, `useEffect`, `useParams`).
+
+⚙️ Features
+✅ Displays a list of books  
+✅ View detailed info (title, author, description, rating)  
+✅ Dynamic routing using `react-router-dom`  
+✅ Props-based data sharing between components  
+✅ Simulated API data using `useEffect`  
+
+🗂️ Project Structure
